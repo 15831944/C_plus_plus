@@ -1,0 +1,36 @@
+﻿Построение начато 29.10.2013 17:40:36.
+     1>Проект "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\80\pr5\pr5.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание ".\Debug\pr5.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\pr5.pch" /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt pr5Doc.cpp
+         pr5Doc.cpp
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\pr5.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:".\Debug\pr5.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\80\pr5\Debug\pr5.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\pr5.lib" /MACHINE:X86 .\Debug\pr5.res
+         .\Debug\pr5.exe.embed.manifest.res
+         .\Debug\ChildFrm.obj
+         .\Debug\MainFrm.obj
+         .\Debug\pr5.obj
+         .\Debug\pr5Doc.obj
+         .\Debug\pr5View.obj
+         .\Debug\StdAfx.obj
+         .\Debug\TestDialog.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Debug\pr5.exe.embed.manifest" /manifest .\Debug\pr5.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         pr5.vcxproj -> C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\80\pr5\.\Debug\pr5.exe
+       FinalizeBuildStatus:
+         Файл ".\Debug\pr5.unsuccessfulbuild" удаляется.
+         Обращение к ".\Debug\pr5.lastbuildstate".
+     1>Построение проекта "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\80\pr5\pr5.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.61

@@ -1,0 +1,24 @@
+﻿Построение начато 31.07.2013 9:33:35.
+     1>Проект "c:\Users\makosov_a\documents\visual studio 2010\Projects\ExcelWrite_noOLE\ExcelWrite_noOLE\ExcelWrite_noOLE.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\ExcelWrite_noOLE.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\ExcelFile.cpp
+         ExcelFile.cpp
+     1>c:\users\makosov_a\documents\visual studio 2010\projects\excelwrite_noole\excelfile.cpp(23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\makosov_a\documents\visual studio 2010\Projects\ExcelWrite_noOLE\Debug\ExcelWrite_noOLE.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ExcelWrite_noOLE.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\makosov_a\documents\visual studio 2010\Projects\ExcelWrite_noOLE\Debug\ExcelWrite_noOLE.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\makosov_a\documents\visual studio 2010\Projects\ExcelWrite_noOLE\Debug\ExcelWrite_noOLE.lib" /MACHINE:X86 Debug\ExcelFile.obj
+         Debug\main.obj
+         LINK : не найден или не выполнена сборка c:\users\makosov_a\documents\visual studio 2010\Projects\ExcelWrite_noOLE\Debug\ExcelWrite_noOLE.exe при последней инкрементной компоновке; выполняется полная компоновка
+         ExcelWrite_noOLE.vcxproj -> c:\users\makosov_a\documents\visual studio 2010\Projects\ExcelWrite_noOLE\Debug\ExcelWrite_noOLE.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\makosov_a\documents\visual studio 2010\Projects\ExcelWrite_noOLE\Debug\ExcelWrite_noOLE.exe;#1" /manifest Debug\ExcelWrite_noOLE.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\ExcelWrite_noOLE.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\ExcelWrite_noOLE.lastbuildstate".
+     1>Построение проекта "c:\Users\makosov_a\documents\visual studio 2010\Projects\ExcelWrite_noOLE\ExcelWrite_noOLE\ExcelWrite_noOLE.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.33

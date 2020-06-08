@@ -1,0 +1,23 @@
+﻿Построение начато 23.04.2013 16:52:11.
+     1>Проект "c:\Users\makosov_a\documents\visual studio 2010\Projects\locale_data_time\locale_data_time\locale_data_time.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\locale_data_time.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\makosov_a\documents\visual studio 2010\projects\locale_data_time\locale_data_time\main.cpp(29): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128): см. объявление "getch"
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\makosov_a\documents\visual studio 2010\Projects\locale_data_time\Debug\locale_data_time.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\locale_data_time.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\makosov_a\documents\visual studio 2010\Projects\locale_data_time\Debug\locale_data_time.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\makosov_a\documents\visual studio 2010\Projects\locale_data_time\Debug\locale_data_time.lib" /MACHINE:X86 Debug\main.obj
+         LINK : не найден или не выполнена сборка c:\users\makosov_a\documents\visual studio 2010\Projects\locale_data_time\Debug\locale_data_time.exe при последней инкрементной компоновке; выполняется полная компоновка
+         locale_data_time.vcxproj -> c:\users\makosov_a\documents\visual studio 2010\Projects\locale_data_time\Debug\locale_data_time.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\makosov_a\documents\visual studio 2010\Projects\locale_data_time\Debug\locale_data_time.exe;#1" /manifest Debug\locale_data_time.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\locale_data_time.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\locale_data_time.lastbuildstate".
+     1>Построение проекта "c:\Users\makosov_a\documents\visual studio 2010\Projects\locale_data_time\locale_data_time\locale_data_time.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.84

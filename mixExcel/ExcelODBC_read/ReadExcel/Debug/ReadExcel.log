@@ -1,0 +1,21 @@
+﻿Построение начато 09.08.2013 14:55:00.
+     1>Проект "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\mixExcel\ExcelODBC_read\ReadExcel\ReadExcel.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание ".\Debug\ReadExcel.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp".\Debug\ReadExcel.pch" /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(13): warning C4005: WINVER: изменение макроопределения
+                 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\sdkddkver.h(212): см. предыдущее определение "WINVER"
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(14): warning C4005: _WIN32_WINNT: изменение макроопределения
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\afxv_w32.h(32): см. предыдущее определение "_WIN32_WINNT"
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\afxwin.h(2280): error C2011: tagTOUCHINPUT: переопределение типа "struct"
+                 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winuser.h(5364): см. объявление "tagTOUCHINPUT"
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\afxwin.h(2282): error C2011: tagGESTUREINFO: переопределение типа "struct"
+                 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winuser.h(12919): см. объявление "tagGESTUREINFO"
+     1>Построение проекта "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\mixExcel\ExcelODBC_read\ReadExcel\ReadExcel.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:01.96

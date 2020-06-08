@@ -1,0 +1,33 @@
+﻿Построение начато 09.12.2013 10:28:39.
+     1>Проект "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\NoCat - ListBox - IntToStr - Clipboard\FirstStep_Excel\ExcelTest.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\ExcelTest.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\ExcelTest.res" ExcelTest.rc 
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug\ExcelTest.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\ExcelTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\NoCat - ListBox - IntToStr - Clipboard\FirstStep_Excel\Debug\ExcelTest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Debug\ExcelTest.lib" /MACHINE:X86 Debug\ExcelTest.res
+         Debug\ExcelTest.exe.embed.manifest.res
+         Debug\ExcelTest.obj
+         Debug\ExcelTestDlg.obj
+         Debug\HScrollListBox.obj
+         Debug\PictureEx.obj
+         Debug\stdafx.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\ExcelTest.exe.embed.manifest" /manifest Debug\ExcelTest.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         ExcelTest.vcxproj -> C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\NoCat - ListBox - IntToStr - Clipboard\FirstStep_Excel\Debug\ExcelTest.exe
+       FinalizeBuildStatus:
+         Файл "Debug\ExcelTest.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\ExcelTest.lastbuildstate".
+     1>Построение проекта "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\NoCat - ListBox - IntToStr - Clipboard\FirstStep_Excel\ExcelTest.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.46

@@ -1,0 +1,23 @@
+void CEduDlg::DeleteStringFromFile(CString FileName, int StringNum)
+{
+    CString temp;
+    CStdioFile oldfile;
+    CStdioFile newfile;
+    
+    oldfile.Open(FileName,oldfile.modeRead);      //Открываем старый файл
+    newfile.Open("newfile.txt",newfile.modeCreate //создаём новый файл
+        | newfile.modeWrite);                    
+    
+    for(int i=0;;i++)
+    {
+        if(!oldfile.ReadString(temp)) break;      //считываем строку
+        if(i!=StringNum)                          //если не та строка которую нужно убрать
+        {
+            temp+="\n";                             
+            newfile.WriteString(temp);              //записываем строку
+        }
+    }
+    oldfile.Close();
+    newfile.Close();
+    oldfile.Remove(FileName);                      //Удаляем старый
+    newfile.Rename("newfile.txt",FileName);          //Переименовываем новый

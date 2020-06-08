@@ -1,0 +1,21 @@
+﻿Построение начато 21.08.2013 16:30:12.
+     1>Проект "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\ExcelODBC_read\ReadExcel\ReadExcel.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к ".\Release\ReadExcel.unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Release\ReadExcel.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:".\Release\ReadExcel.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\ExcelODBC_read\ReadExcel\Release\ReadExcel.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Release\ReadExcel.lib" /MACHINE:X86 .\Release\ReadExcel.res
+         .\Release\ReadExcel.obj
+         .\Release\ReadExcelDlg.obj
+         .\Release\StdAfx.obj
+     1>odbccp32.lib(dllload.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp___vsnprintf в функции _StringVPrintfWorkerA@20
+     1>.\Release\ReadExcel.exe : fatal error LNK1120: 1 неразрешенных внешних элементов
+     1>Построение проекта "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\ExcelODBC_read\ReadExcel\ReadExcel.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.32

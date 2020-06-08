@@ -1,0 +1,24 @@
+﻿Построение начато 08.08.2013 14:21:28.
+     1>Проект "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\mixExcel\FirstStep_Excel\FirstStep_Excel\ExcelTest.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\ExcelTest.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\ExcelTest.exe.embed.manifest" /manifest Debug\ExcelTest.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         Для всех выходных данных обновления не требуется.
+       FinalizeBuildStatus:
+         Файл "Debug\ExcelTest.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\ExcelTest.lastbuildstate".
+     1>Построение проекта "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\mixExcel\FirstStep_Excel\FirstStep_Excel\ExcelTest.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.11

@@ -1,0 +1,125 @@
+﻿Построение начато 21.08.2013 16:58:58.
+     1>Проект "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\FirstStep_Excel_Wirte\FirstStep_Excel\ExcelTest.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Release\ExcelTest.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Ob1 /Oy /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\ExcelTest.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\atlcore.h(13): warning C4005: WINVER: изменение макроопределения
+                 c:\users\makosov_a\documents\visual studio 2010\projects\firststep_excel_wirte\firststep_excel\stdafx.h(14): см. предыдущее определение "WINVER"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\atlcore.h(14): warning C4005: _WIN32_WINNT: изменение макроопределения
+                 c:\users\makosov_a\documents\visual studio 2010\projects\firststep_excel_wirte\firststep_excel\stdafx.h(18): см. предыдущее определение "_WIN32_WINNT"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2213): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "m_pConfigs"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2213): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2213): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2140): error C2065: GID_ZOOM: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2140): error C2065: GC_ZOOM: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2140): error C2065: GC_ZOOM: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2146): error C2065: GID_ROTATE: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2146): error C2065: GC_ROTATE: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2146): error C2065: GC_ROTATE: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2152): error C2065: GID_TWOFINGERTAP: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2152): error C2065: GC_TWOFINGERTAP: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2152): error C2065: GC_TWOFINGERTAP: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2166): error C2065: GID_PAN: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2166): error C2065: GC_PAN: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2166): error C2065: GC_PAN: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2172): error C2065: GID_PAN: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2172): error C2065: GC_PAN_WITH_SINGLE_FINGER_VERTICALLY: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2172): error C2065: GC_PAN_WITH_SINGLE_FINGER_VERTICALLY: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2178): error C2065: GID_PAN: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2178): error C2065: GC_PAN_WITH_SINGLE_FINGER_HORIZONTALLY: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2178): error C2065: GC_PAN_WITH_SINGLE_FINGER_HORIZONTALLY: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2184): error C2065: GID_PAN: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2184): error C2065: GC_PAN_WITH_GUTTER: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2184): error C2065: GC_PAN_WITH_GUTTER: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2190): error C2065: GID_PAN: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2190): error C2065: GC_PAN_WITH_INERTIA: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2190): error C2065: GC_PAN_WITH_INERTIA: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(2961): error C2061: синтаксическая ошибка: идентификатор "HRAWINPUT"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(3131): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(3131): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "GetCurrentGestureInfo"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(3132): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(3134): warning C4183: GetCurrentGestureInfo: отсутствие возвращаемого типа; предполагается функция-член, возвращающая "int"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(3164): error C2061: синтаксическая ошибка: идентификатор "PTOUCHINPUT"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(3174): error C2061: синтаксическая ошибка: идентификатор "PTOUCHINPUT"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(3187): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "m_pCurrentGestureInfo"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(3187): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(3187): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(3133): error C2065: m_pCurrentGestureInfo: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(3608): error C2061: синтаксическая ошибка: идентификатор "PBUTTON_IMAGELIST"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin.h(3609): error C2061: синтаксическая ошибка: идентификатор "PBUTTON_IMAGELIST"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcomctl32.inl(137): error C2061: синтаксическая ошибка: идентификатор "SUBCLASSPROC"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcomctl32.inl(137): error C2065: pfnSubclass: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcomctl32.inl(137): error C2065: uIdSubclass: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcomctl32.inl(137): error C2065: dwRefData: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcomctl32.inl(138): error C2061: синтаксическая ошибка: идентификатор "SUBCLASSPROC"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcomctl32.inl(138): error C2065: pfnSubclass: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcomctl32.inl(138): error C2065: uIdSubclass: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcomctl32.inl(138): error C2065: pdwRefData: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcomctl32.inl(139): error C2061: синтаксическая ошибка: идентификатор "SUBCLASSPROC"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcomctl32.inl(139): error C2065: pfnSubclass: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcomctl32.inl(139): error C2065: uIdSubclass: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin2.inl(480): error C2061: синтаксическая ошибка: идентификатор "HRAWINPUT"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin4.inl(175): error C2039: GetLayeredWindowAttributes: не является членом "`global namespace'"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin4.inl(175): error C2660: CWnd::GetLayeredWindowAttributes: функция не принимает 4 аргументов
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin4.inl(181): error C2039: PrintWindow: не является членом "`global namespace'"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin4.inl(181): error C2660: CWnd::PrintWindow: функция не принимает 3 аргументов
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin4.inl(185): error C2065: SBM_GETSCROLLBARINFO: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin4.inl(194): error C3861: Edit_SetCueBannerText: идентификатор не найден
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin4.inl(207): error C3861: Edit_GetCueBannerText: идентификатор не найден
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin4.inl(288): error C3861: Button_GetIdealSize: идентификатор не найден
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin4.inl(291): error C2065: PBUTTON_IMAGELIST: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin4.inl(291): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "pbuttonImagelist"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin4.inl(291): error C2761: BOOL CButton::SetImageList(void): повторное объявление функции не разрешается
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin4.inl(291): error C2059: синтаксическая ошибка: )
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin4.inl(292): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin4.inl(292): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin4.inl(298): error C2065: PBUTTON_IMAGELIST: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin4.inl(298): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "pbuttonImagelist"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin4.inl(298): error C2761: BOOL CButton::GetImageList(void) const: повторное объявление функции не разрешается
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin4.inl(298): error C2059: синтаксическая ошибка: )
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin4.inl(299): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin4.inl(299): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin4.inl(309): error C3861: Button_SetTextMargin: идентификатор не найден
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxwin4.inl(316): error C3861: Button_GetTextMargin: идентификатор не найден
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn.h(561): error C2061: синтаксическая ошибка: идентификатор "PLVGROUP"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn.h(564): error C2061: синтаксическая ошибка: идентификатор "PLVGROUP"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn.h(567): error C2061: синтаксическая ошибка: идентификатор "PLVGROUP"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn.h(579): error C2061: синтаксическая ошибка: идентификатор "PLVGROUPMETRICS"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn.h(582): error C2061: синтаксическая ошибка: идентификатор "PLVGROUPMETRICS"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn.h(588): error C2061: синтаксическая ошибка: идентификатор "PFNLVGROUPCOMPARE"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn.h(591): error C2061: синтаксическая ошибка: идентификатор "PLVINSERTGROUPSORTED"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn.h(600): error C2061: синтаксическая ошибка: идентификатор "PLVTILEVIEWINFO"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn.h(603): error C2061: синтаксическая ошибка: идентификатор "PLVTILEVIEWINFO"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn.h(606): error C2061: синтаксическая ошибка: идентификатор "PLVTILEINFO"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn.h(609): error C2061: синтаксическая ошибка: идентификатор "PLVTILEINFO"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn.h(612): error C2061: синтаксическая ошибка: идентификатор "LPLVINSERTMARK"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn.h(615): error C2061: синтаксическая ошибка: идентификатор "LPLVINSERTMARK"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn.h(618): error C2061: синтаксическая ошибка: идентификатор "LPLVINSERTMARK"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn.h(630): error C2061: синтаксическая ошибка: идентификатор "PLVSETINFOTIP"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn.h(2010): error C2061: синтаксическая ошибка: идентификатор "LPTBMETRICS"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn.h(2013): error C2061: синтаксическая ошибка: идентификатор "LPTBMETRICS"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn.h(2568): error C2061: синтаксическая ошибка: идентификатор "PLITEM"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn.h(2574): error C2061: синтаксическая ошибка: идентификатор "PLITEM"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn.h(2582): error C2061: синтаксическая ошибка: идентификатор "PLHITTESTINFO"
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn.inl(376): error C2065: TVM_GETLINECOLOR: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn.inl(378): error C2065: TVM_SETLINECOLOR: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn2.inl(39): error C2065: UDM_GETPOS32: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn2.inl(41): error C2065: UDM_SETPOS32: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn2.inl(109): error C2065: TB_GETSTRING: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn2.inl(168): error C2065: HDM_GETBITMAPMARGIN: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn2.inl(170): error C2065: HDM_SETBITMAPMARGIN: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn2.inl(172): error C2065: HDM_SETFILTERCHANGETIMEOUT: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn2.inl(174): error C2065: HDM_EDITFILTER: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn2.inl(176): error C2065: HDM_CLEARFILTER: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn2.inl(178): error C2065: HDM_CLEARFILTER: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn2.inl(265): error C2065: RB_PUSHCHEVRON: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn2.inl(310): error C2065: TTM_GETBUBBLESIZE: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn2.inl(312): error C2065: TTM_ADJUSTRECT: необъявленный идентификатор
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxcmn2.inl(312): fatal error C1003: число ошибок превышает 100; остановка компиляции
+     1>Построение проекта "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\FirstStep_Excel_Wirte\FirstStep_Excel\ExcelTest.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:01.22

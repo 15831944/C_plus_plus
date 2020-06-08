@@ -1,0 +1,35 @@
+﻿Построение начато 09.10.2013 13:51:40.
+     1>Проект "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\NoCat - ListBox - IntToStr\FirstStep_Excel\ExcelTest.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Release\ExcelTest.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Ob1 /Oy /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\ExcelTest.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Ob1 /Oy /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\ExcelTest.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ExcelTest.cpp ExcelTestDlg.cpp HScrollListBox.cpp PictureEx.cpp
+         ExcelTest.cpp
+         ExcelTestDlg.cpp
+     1>ExcelTestDlg.cpp(216): warning C4244: =: преобразование "ULONGLONG" в "size_t", возможна потеря данных
+         HScrollListBox.cpp
+         PictureEx.cpp
+     1>PictureEx.cpp(528): warning C4244: =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+         Создание кода...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /l"0x0409" /IRelease\ /nologo /fo"Release\ExcelTest.res" ExcelTest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Release\ExcelTest.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\ExcelTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\NoCat - ListBox - IntToStr\FirstStep_Excel\Release\ExcelTest.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Release\ExcelTest.lib" /MACHINE:X86 Release\ExcelTest.res
+         Release\ExcelTest.obj
+         Release\ExcelTestDlg.obj
+         Release\HScrollListBox.obj
+         Release\PictureEx.obj
+         Release\stdafx.obj
+         ExcelTest.vcxproj -> C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\NoCat - ListBox - IntToStr\FirstStep_Excel\Release\ExcelTest.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"Release\ExcelTest.exe;#1" /manifest Release\ExcelTest.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         Файл "Release\ExcelTest.unsuccessfulbuild" удаляется.
+         Обращение к "Release\ExcelTest.lastbuildstate".
+     1>Построение проекта "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\NoCat - ListBox - IntToStr\FirstStep_Excel\ExcelTest.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:09.33

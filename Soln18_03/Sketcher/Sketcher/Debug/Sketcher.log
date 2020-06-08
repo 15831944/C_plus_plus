@@ -1,0 +1,17 @@
+﻿Построение начато 30.10.2013 16:16:50.
+     1>Проект "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\Soln18_03\Sketcher\Sketcher\Sketcher.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Sketcher.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Sketcher.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(13): warning C4005: WINVER: изменение макроопределения
+                 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\sdkddkver.h(212): см. предыдущее определение "WINVER"
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atltransactionmanager.h(262): error C3861: AtlLoadSystemLibraryUsingFullPath: идентификатор не найден
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atltransactionmanager.h(312): error C3861: AtlLoadSystemLibraryUsingFullPath: идентификатор не найден
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atltransactionmanager.h(342): error C3861: AtlLoadSystemLibraryUsingFullPath: идентификатор не найден
+     1>Построение проекта "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\Soln18_03\Sketcher\Sketcher\Sketcher.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:04.18

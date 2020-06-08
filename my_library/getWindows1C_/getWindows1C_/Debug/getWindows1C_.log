@@ -1,0 +1,16 @@
+﻿Построение начато 20.01.2014 15:16:03.
+     1>Проект "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\my_library\getWindows1C_\getWindows1C_\getWindows1C_.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\getWindows1C_.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D _MBCS /D _ATL_STATIC_REGISTRY /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /analyze- /errorReport:prompt main.cpp /clr:nostdlib 
+         main.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+     1>main.cpp(33): error C2660: OpenClipboard: функция не принимает 0 аргументов
+     1>Построение проекта "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\my_library\getWindows1C_\getWindows1C_\getWindows1C_.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:03.02

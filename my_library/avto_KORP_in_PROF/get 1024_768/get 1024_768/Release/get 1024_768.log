@@ -1,0 +1,27 @@
+﻿Построение начато 28.10.2013 16:07:06.
+     1>Проект "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\my_library\avto_KORP_in_PROF\get 1024_768\get 1024_768\get 1024_768.vcxproj" в узле 2 (целевые объекты build).
+     1>PrepareForBuild:
+         Создание каталога "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\my_library\avto_KORP_in_PROF\get 1024_768\Release\".
+       InitializeBuildStatus:
+         Создание "Release\get 1024_768.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /l"0x0409" /nologo /fo"Release\get 1024_7683.res" "get 1024_7683.rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\my_library\avto_KORP_in_PROF\get 1024_768\Release\get 1024_768.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\get 1024_768.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\my_library\avto_KORP_in_PROF\get 1024_768\Release\get 1024_768.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\my_library\avto_KORP_in_PROF\get 1024_768\Release\get 1024_768.lib" /MACHINE:X86 "Release\get 1024_7683.res"
+         Release\main.obj
+         Создание кода
+         Создание кода завершено
+         get 1024_768.vcxproj -> C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\my_library\avto_KORP_in_PROF\get 1024_768\Release\get 1024_768.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\my_library\avto_KORP_in_PROF\get 1024_768\Release\get 1024_768.exe;#1" /manifest "Release\get 1024_768.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Файл "Release\get 1024_768.unsuccessfulbuild" удаляется.
+         Обращение к "Release\get 1024_768.lastbuildstate".
+     1>Построение проекта "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\my_library\avto_KORP_in_PROF\get 1024_768\get 1024_768\get 1024_768.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.53

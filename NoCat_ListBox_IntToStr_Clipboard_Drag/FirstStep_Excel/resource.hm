@@ -1,0 +1,4 @@
+// Microsoft Visual C++ generated Help ID include file.
+// Used by ExcelTest.rc
+//
+#define HIDC_LIST1                      0x806603eb    // IDD_EXCELTEST_DIALOG [Russian]

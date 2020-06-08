@@ -1,0 +1,25 @@
+﻿Построение начато 28.11.2013 17:41:01.
+     1>Проект "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\my_library\openConf_windows\getWindows1C_\getWindows1C_.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\getWindows1C_.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D _MBCS /D _ATL_STATIC_REGISTRY /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /analyze- /errorReport:prompt main.cpp /clr:nostdlib 
+         main.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\my_library\openConf_windows\Debug\getWindows1C_.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\getWindows1C_.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\my_library\openConf_windows\Debug\getWindows1C_.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\main.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         getWindows1C_.vcxproj -> C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\my_library\openConf_windows\Debug\getWindows1C_.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\my_library\openConf_windows\Debug\getWindows1C_.exe;#1" /manifest Debug\getWindows1C_.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\getWindows1C_.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\getWindows1C_.lastbuildstate".
+     1>Построение проекта "C:\Users\Makosov_A\Documents\Visual Studio 2010\Projects\my_library\openConf_windows\getWindows1C_\getWindows1C_.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:05.53
